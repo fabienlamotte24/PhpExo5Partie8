@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to right, black, #08088A);
+    display:flex;
+    justify-content: center;
+    padding-top:200px;
+}
+.blockForm{
+    background-color: white;
+    height:250px;
+    width:400px;
+    text-align: center;
+    padding-top:30px;
+    border-radius:50px;
+    box-shadow:3px 3px 5px #E6E6E6;
+}
